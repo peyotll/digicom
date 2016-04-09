@@ -17,7 +17,8 @@
 	</files>
 
 	<languages folder="language">
-			<language tag="en-GB">en-GB/en-GB.plg_digicom_pay_offline.ini</language>
+		<language tag="en-GB">en-GB/en-GB.plg_digicom_pay_offline.ini</language>
+		<language tag="fr-FR">fr-FR/fr-FR.plg_digicom_pay_offline.ini</language>
   </languages>
 
 	<config name="params">

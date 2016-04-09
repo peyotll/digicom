@@ -18,6 +18,7 @@
 
 	<languages folder="language">
 		<language tag="en-GB">en-GB/en-GB.plg_system_digicom.ini</language>
+		<language tag="fr-FR">fr-FR/fr-FR.plg_system_digicom.ini</language>
 	</languages>
 
 	<config>

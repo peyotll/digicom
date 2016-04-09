@@ -16,7 +16,8 @@
 		<filename>index.html</filename>
 	</files>
 	<languages folder="language">
-			<language tag="en-GB">en-GB/en-GB.mod_digicom_categories.ini</language>
+		<language tag="en-GB">en-GB/en-GB.mod_digicom_categories.ini</language>
+		<language tag="fr-FR">fr-FR/fr-FR.mod_digicom_categories.ini</language>
 	</languages>
 
 	<config>

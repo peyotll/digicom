@@ -18,6 +18,7 @@
 
 	<languages folder="language">
 		<language tag="en-GB">en-GB/en-GB.plg_digicom_pay_paypal.ini</language>
+		<language tag="fr-FR">fr-FR/fr-FR.plg_digicom_pay_paypal.ini</language>
 	</languages>
 
  	<config>
