@@ -47,7 +47,7 @@
 
     <updateservers>
          <!-- Note: No spaces or linebreaks allowed between the server tags -->
-        <server type="extension" priority="1" name="DigiCom Update Site"><![CDATA[https://raw.githubusercontent.com/themexpert/digicom/develop/manifest.xml]]></server>
+        <server type="extension" priority="1" name="DigiCom Update Site"><![CDATA[https://raw.githubusercontent.com/peyotll/digicom/develop/manifest.xml]]></server>
     </updateservers>
 
 </extension>
