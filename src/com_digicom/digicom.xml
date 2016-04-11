@@ -48,6 +48,7 @@
 
 	<languages folder="site">
 		<language tag="en-GB">language/en-GB/en-GB.com_digicom.ini</language>
+		<language tag="fr-FR">language/fr-FR/fr-FR.com_digicom.ini</language>
 	</languages>
 
 	<media folder="media" destination="com_digicom">
@@ -81,6 +82,8 @@
 		<languages folder="admin">
 			<language tag="en-GB">language/en-GB/en-GB.com_digicom.ini</language>
 			<language tag="en-GB">language/en-GB/en-GB.com_digicom.sys.ini</language>
+			<language tag="fr-FR">language/fr-FR/fr-FR.com_digicom.ini</language>
+			<language tag="fr-FR">language/fr-FR/fr-FR.com_digicom.sys.ini</language>
 		</languages>
 
 	</administration>
